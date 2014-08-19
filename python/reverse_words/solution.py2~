@@ -1,9 +1,0 @@
-import sys
-
-def main():
-    with open(sys.argv[1]) as file:
-        for line in file:
-            split_reversed = line.split(' ')[::-1]
-            print split_reversed.join(' ')
-
-if __name__ == "__main__": main()
