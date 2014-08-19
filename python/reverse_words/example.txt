@@ -1,0 +1,4 @@
+this is a sentence
+this is another sentence
+hello world
+this sentence  has   too many   spaces
